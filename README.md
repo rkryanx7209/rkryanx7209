@@ -20,6 +20,8 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
 
 ---
 
@@ -28,6 +30,7 @@
 | Projeto | Descrição | Link |
 |--------|-----------|------|
 | 🥗 Nutri-GT | Sistema de agendamento nutricional | [nutri.gt.tc](https://nutri.gt.tc/) |
+| 📱 Nutri-GT App | Versão mobile do Nutri-GT | [github.com](https://github.com/rkryanx7209/nutri-app) |
 | 💈 FamilyBrook | Site de barbearia | [familybrook.gt.tc](https://familybrook.gt.tc/?i=2) |
 | 🚗 Locadora 2.0 | Sistema de locadora de veículos | [locadora2-0.vercel.app](https://locadora2-0.vercel.app/) |
 
