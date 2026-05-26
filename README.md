@@ -34,7 +34,7 @@
 | 💈 **FamilyBrook** | Site de barbearia | [Acessar](https://familybrook.gt.tc/) |
 | 🚗 **Locadora 1.0** | Primeira versão do sistema de locadora | [Acessar](https://locadoura-ryan01.netlify.app/) |
 | 🚗 **Locadora 2.0** | Versão aprimorada com melhorias | [Acessar](https://locadora2-0.vercel.app/) |
-| 📊 **Data-Social SESI** | Plataforma de dados socioeconômicos IBGE/SEADE | [Acessar](https://sesi-ibge.gt.tc/) • [GitHub](https://github.com/rkryanx7209/data-social) |
+| 📊 **Data-Social SESI** | Plataforma de dados socioeconômicos IBGE/SEADE | [Acessar](https://sesi-ibge.gt.tc/)|
 
 ---
 
